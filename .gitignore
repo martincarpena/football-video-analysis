@@ -1,0 +1,19 @@
+# Python virtual environment (recreate it instead of uploading it)
+.venv/
+
+# Python cache files (created automatically when code runs)
+__pycache__/
+
+# Video files: far too big for GitHub
+*.mp4
+*.mov
+*.avi
+*.mkv
+input_videos/
+output_videos/
+
+# AI model weight files (large, downloaded or trained, not written by us)
+*.pt
+
+# Mac system file
+.DS_Store
